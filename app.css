@@ -1,0 +1,12 @@
+Screen {
+		layout: grid;
+}
+
+TabbedContent ContentSwitcher {
+		height: 1fr;
+}
+
+Tree {
+		height: 100%;
+		border: solid green;
+}
