@@ -1,8 +1,8 @@
 # Stardog SPARQL Profiler TUI
 
-A textual user interface (TUI) for profiling SPARQL queries in Stardog.
+A textual user interface (TUI) for [profiling SPARQL queries in Stardog](https://docs.stardog.com/operating-stardog/database-administration/managing-query-performance#sparql-profiler).
 
-<img width="1624" alt="image" src="https://github.com/noahgorstein/profiler_tui/assets/23270779/3cef56e8-2843-47d3-a741-5f829262eddd">
+<img width="1624" alt="image" src="https://github.com/noahgorstein/stardog_sparql_profiler_tui/assets/23270779/9ce48173-3354-4530-8247-62499aa1755f">
 
 ## Installation
 
@@ -43,7 +43,7 @@ Options:
 
 ## In Action
 
-https://github.com/noahgorstein/profiler_tui/assets/23270779/2737e438-c1a5-47c4-8f77-9f774c215880
+https://github.com/noahgorstein/stardog_sparql_profiler_tui/assets/23270779/f6147240-35ca-45a5-8fe2-cbc378d44b11
 
 ## Usage
 
